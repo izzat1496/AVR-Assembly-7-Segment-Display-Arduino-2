@@ -1,12 +1,6 @@
-;
-; Experiment3-3.asm
-;
+;In this project, we will create program to display from 00 to 99 by using 7-segment display by using AVR Assembly Languages.
 ; Created: 10/11/2020 5:12:27 AM
-; Group 12
-; Section 2
 
-
-; Replace with your application code
 main:
 
 ldi r16, low(RAMEND)   ; set up the stack
